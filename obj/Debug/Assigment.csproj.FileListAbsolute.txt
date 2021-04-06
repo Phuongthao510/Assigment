@@ -1,0 +1,31 @@
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\bin\Debug\Assigment.exe
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\bin\Debug\Assigment.pdb
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.csprojAssemblyReference.cache
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.Form1.resources
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.frmViewProfile.resources
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.Properties.Resources.resources
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.exe
+C:\Users\Nam Swag\source\repos\Assigment\Assigment\obj\Debug\Assigment.pdb
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\bin\Debug\Assigment.exe
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\bin\Debug\Assigment.pdb
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.csprojAssemblyReference.cache
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.Form1.resources
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.frmViewProfile.resources
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.Properties.Resources.resources
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.exe
+C:\Users\Nam Swag\Desktop\New folder (2)\Assigment\Assigment\obj\Debug\Assigment.pdb
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\bin\Debug\Assigment.exe
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\bin\Debug\Assigment.pdb
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.csprojAssemblyReference.cache
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.Form1.resources
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.frmViewProfile.resources
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.Properties.Resources.resources
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.exe
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\obj\Debug\Assigment.pdb
+C:\Users\Nam Swag\Desktop\BTVN\Assigment\Assigment\bin\Debug\Assigment.exe.config
